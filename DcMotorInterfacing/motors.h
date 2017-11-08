@@ -8,6 +8,7 @@
 #ifndef MOTORS_H_
 #define MOTORS_H_ 
 
+/* change the control port as you desire */
 #define motorPort   PORTD
 #define DcMotor1Pin1 PD0
 #define DcMotor1Pin2 PD1
