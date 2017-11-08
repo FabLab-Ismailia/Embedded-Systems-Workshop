@@ -1,6 +1,6 @@
 /* Motors interfacing library */
 /* this library work with 
-   - DC motors
+   - DC motors : you can use it with H-bridge or any DC motor driver : L298D 
    - SG90 9g micro servo 
    by : Mohammed hemed 
 */   
