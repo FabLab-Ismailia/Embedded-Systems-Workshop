@@ -12,9 +12,9 @@
 **How to create your own library** 
 **GPIOs** 
 - I/O interfacing : leds - switches - sevenSegment- Motors (Dc - Servo)  
-**Interrupt : External interrupts 
-ADC : Read different transducers (sensors) 
-UART : talk to and listen from uC  
+**Interrupt : External interrupts** 
+**ADC : Read different transducers (sensors)** 
+**UART : talk to and listen from uC**  
 
 
 
@@ -27,10 +27,15 @@ UART : talk to and listen from uC
 **Recommended sites :** 
 
 https://www.sparkfun.com
+
 http://maxembedded.com
+
 https://www.tutorialspoint.com/cprogramming 
+
 https://stackoverflow.com
+
 https://www.quora.com 
+
 https://www.lucidchart.com 
 
 **Code and simulation for each topic :** 
