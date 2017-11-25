@@ -1,19 +1,25 @@
 # Material used in Embedded Workshop : 
 **Embedded Systems introduction**
 **C for Embedded Systems :**
-- variables  - constatnts
+- variables & constatnts
 - flowcharts
 - C contol statements 
 - functions  
 - pre-processor 
 - embedded C
 - Bit manipulation 
+
 **How to make a configuartion header file for uC** 
+
 **How to create your own library** 
+
 **GPIOs** 
 - I/O interfacing : leds - switches - sevenSegment- Motors (Dc - Servo)  
+
 **Interrupt : External interrupts** 
+
 **ADC : Read different transducers (sensors)** 
+
 **UART : talk to and listen from uC**  
 
 
@@ -52,8 +58,10 @@ https://www.lucidchart.com
 
 **Libraries made from zero :** 
 
-- external interrupt  - embeddedC
-- motors              - seven segment 
+- external interrupt  
+- embeddedC
+- motors              
+- seven segment 
 
 **Hardware Required :**
 
