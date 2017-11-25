@@ -1,9 +1,6 @@
-/*
- * external_interrupt.c
- *
- * Created: 17/11/2017 01:59:07 ص
- *  Author: Hemed
- */ 
+
+ /* external int example using the library */
+  /* MOHAMMED HEMED */ 
 
 
 #include "ext_int_config.h"
@@ -35,7 +32,7 @@ int main(void)
 
 ISR (INT0_vect)
 {
-PORTD ^= (1<<PD0);	
+ PORTD ^= (1<<PD0);	
 }
 
 ISR (INT1_vect)
