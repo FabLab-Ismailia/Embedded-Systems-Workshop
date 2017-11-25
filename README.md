@@ -44,7 +44,7 @@ https://www.quora.com
 
 https://www.lucidchart.com 
 
-# Code and simulation for each topic :** 
+# Code and simulation for each topic :
 
 - DC motor interfacing 
 - Servo Motor interfacing 
