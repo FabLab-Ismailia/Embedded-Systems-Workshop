@@ -1,5 +1,6 @@
 # Material used in Embedded Workshop : 
 
+![](course.png)
 **- Embedded Systems introduction**
 
 **- C for Embedded Systems :**
