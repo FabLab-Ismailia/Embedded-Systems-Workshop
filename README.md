@@ -1,7 +1,7 @@
 
 ![](image/course.PNG)
 
-## Material used in Embedded Workshop : 
+### Material used in Embedded Workshop : 
 
 **- Embedded Systems introduction**
 
@@ -29,13 +29,13 @@
 
 
 
-## Recommended books : 
+### Recommended books : 
 
 - Simply AVR -> Abdallah Ali
 - The AVR microcontroller & Embedded Systems using Assembly & c -- > Mazidi 
 - PIC microcontroller -- > Milan Verle
 
-## Recommended sites : 
+### Recommended sites : 
 
 https://www.sparkfun.com
 
@@ -49,7 +49,7 @@ https://www.quora.com
 
 https://www.lucidchart.com 
 
-## Code and simulation for each topic :
+### Code and simulation for each topic :
 
 - DC motor interfacing 
 - Servo Motor interfacing 
@@ -61,14 +61,14 @@ https://www.lucidchart.com
 - Read variable resistor via ADC 
 - UART (computer talk to and listen from uC) 
 
-## Libraries made from zero : 
+### Libraries made from zero : 
 
 - external interrupt  
 - embeddedC
 - motors              
 - seven segment 
 
-## Hardware Required : 
+### Hardware Required : 
 
 - uC = ATMEGA32 
 - programmer = USBASP 
@@ -79,7 +79,7 @@ https://www.lucidchart.com
 - blueutooth module
 - breadboard - jumbers - 5K varialble resistor 
 
-## Software Required : 
+### Software Required : 
 
 - Atmel Studio 
 - proteus 
@@ -87,7 +87,7 @@ https://www.lucidchart.com
 - exterme burner | avrdude 
 - putty
 
-## Final project : 
+### Final project : 
 
 - contol a device via smart phone | using PC 
 
