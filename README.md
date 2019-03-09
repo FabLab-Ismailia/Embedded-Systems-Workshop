@@ -1,6 +1,6 @@
 # Material used in Embedded Workshop : 
 
-![](image/course.png)
+![](image/course.PNG)
 
 **- Embedded Systems introduction**
 
